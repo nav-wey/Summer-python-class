@@ -1,1 +1,1 @@
-# Summer-python-class
+# Summer Python Class Projects
